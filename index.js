@@ -4,7 +4,6 @@ var inquirer = require('inquirer');
 
 const generatePage = require('./utils/generateMarkdown.js');
 
-
 // TODO: Create an array of questions for user input
 const questions = [
 {
@@ -58,7 +57,6 @@ const questions = [
     message: 'What tests have been performed on the project and how can a user perform the tests?',
     name: 'tests'
 },  
-
 ];
 
 // TODO: Create a function to write README file
