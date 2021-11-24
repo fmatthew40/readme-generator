@@ -4,7 +4,6 @@
 
   ## ![screenshot](https://img.shields.io/badge/License-MIT-blue.svg)
 
-
   ## Table of Contents
   1.  [License](#license)
   2.  [Description](#description)
