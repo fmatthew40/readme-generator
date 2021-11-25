@@ -26,7 +26,7 @@
  Contributions are not accepted at this time.
 
  ## Tests 
- Tests to check feauture have been performed.
+ Tests to check feautures have been performed.
 
  ## Questions
  If you have any questions, feel free to email me at fmatthew40@gmail.com. 
