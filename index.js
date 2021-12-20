@@ -11,3 +11,7 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+
+var message ='Hello There';
+console.log(message);
