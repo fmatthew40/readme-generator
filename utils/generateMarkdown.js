@@ -17,7 +17,8 @@ function generateMarkdown(data) {
   
   ## ${data.title}
 
-  ## License: ${data.license}
+  ## License 
+  ${data.license}
 
   ## Table of Contents
   *[License](#license)
@@ -27,15 +28,20 @@ function generateMarkdown(data) {
   *[Contributing](#contributing)
   *[Tests](#tests)
 
- ## Description: ${data.description}
+ ## Description
+${data.description}
 
- ## Installation: ${data.installation}
+ ## Installation 
+ ${data.installation}
 
- ## Usage: ${data.usage}
+ ## Usage 
+ ${data.usage}
 
- ## Contributing: ${data.contributing}
+ ## Contributing 
+ ${data.contributing}
 
- ## Tests: ${data.tests}
+ ## Tests 
+ ${data.tests}
 
 `;
 }
