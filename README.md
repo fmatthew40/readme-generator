@@ -1,30 +1,36 @@
 
   
-  ## title..
+  ## Readme Generator
 
   ## License 
-  license..
+  mit
 
   ## Table of Contents
-  *[License](#license)
-  *[Description](#description)
-  *[Installation](#installation)
+  [License](#license),
+  [Description](#description),
+  [Installation](#installation),
   *[Usage](#usage)
   *[Contributing](#contributing)
   *[Tests](#tests)
+  *[Questions](#questions)
 
  ## Description
-describt..
+This generates a readme when user information is entered.
 
  ## Installation 
- install..
+ please install inquirer to run this project.
 
  ## Usage 
- projects..
+ to create a readme
 
  ## Contributing 
- contribute..
+ contributions
 
  ## Tests 
- tests..
+ tests
+
+ ## Questions
+ # If you have any questions, feel free to email me at fmatthew40@gmail.com. 
+ You can also visit my github page at www.github.com/fmatthew40.
+ 
 
