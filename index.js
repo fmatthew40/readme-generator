@@ -70,7 +70,7 @@ const newfile = (fileName, answers)  =>{
 // // TODO: Create a function to initialize app
 const init =() => {
     inquirer.prompt(questions).then(function (answers) {
-        const fileName = 'README.md';
+        const fileName = './readme/README.md';
         newfile(fileName, answers)
     });
 }
