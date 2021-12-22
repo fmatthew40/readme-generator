@@ -1,8 +1,8 @@
 
   
-  ## sfdakj
+  ## ajksfd
 
-  ## ![badge](https://img.shields.io/badge/License-GPL-3.0-blue.svg)
+  ## ![screenshot](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
   ## Table of Contents
@@ -15,26 +15,26 @@
   7.  [Questions](#questions)
 
  ## Description
- sajkdlf
+ alfdsjk
 
  ## Installation 
- fsdjak
+ fadsjk
 
  ## Usage 
- adfsjk
+ afjks
 
  ## Contributing 
- kasdjf
+ kajfsd
 
  ## Tests 
- aklfsd
+ alfjk
 
  ## Questions
- If you have any questions, feel free to email me at kfjasd. 
- You can also visit my github page at www.github.com/sdfajk.
+ If you have any questions, feel free to email me at kafjd. 
+ You can also visit my github page at www.github.com/kjafsd.
  
  ## License 
- This project has a project license of GPL-3.0.  
+ This project has a project license of MIT.  
  To find out more information about this license, visit the link below.
- https://choosealicense.com/licenses/gpl-3.0/
+ https://choosealicense.com/licenses/mit/
 

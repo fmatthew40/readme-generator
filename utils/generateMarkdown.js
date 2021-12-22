@@ -22,7 +22,7 @@ function generateMarkdown(data) {
   
   ## ${data.title}
 
-  ## ![badge](https://img.shields.io/badge/License-${data.license}-blue.svg)
+  ## ![screenshot](https://img.shields.io/badge/License-${data.license}-blue.svg)
 
 
   ## Table of Contents
