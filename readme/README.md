@@ -1,8 +1,8 @@
 
   
-  ## afdjk
+  ## Professional Readme Generator
 
-  ## ![screenshot](https://img.shields.io/badge/License-MIT-blue.svg)
+  ## ![screenshot](https://img.shields.io/badge/License-Apache-blue.svg)
 
 
   ## Table of Contents
@@ -15,26 +15,26 @@
   7.  [Questions](#questions)
 
  ## Description
- ajkfdl
+ This application prompts the user with questions.  The answers to those questions are then used to create a readme file.
 
  ## Installation 
- ajklfd
+ Please install the inquirer package to use this application.
 
  ## Usage 
- aldfk
+ The intended use is to create a quality readme.
 
  ## Contributing 
- ladkfs
+ Contributions are not accepted at this time.
 
  ## Tests 
- aldfjk
+ Tests were used to show each feature of this application.
 
  ## Questions
- If you have any questions, feel free to email me at kfsd. 
- You can also visit my github page at www.github.com/adskjlf.
+ If you have any questions, feel free to email me at fmatthew40@gmail.com. 
+ You can also visit my github page at www.github.com/fmatthew40.
  
  ## License 
- This project has a project license of MIT.  
- To find out more information about this license, visit the link below.
- https://choosealicense.com/licenses/mit/
+ This project has a project license of Apache.  
+ To find out more information about this license, visit the following link.
+ https://choosealicense.com/licenses/apache/
 
