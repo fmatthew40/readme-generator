@@ -38,8 +38,9 @@ const questions = [
     name: 'usage'
 },    
 {
-    type: 'input',
-    message:  'License?',
+    type: 'list',
+    message:  'Select a license you would like to display.',
+    choices: ['MIT', 'Apache', 'AGPL-3.0', 'GPL-3.0', 'Unlicense'],
     name: 'license'
 },  
 {
