@@ -55,7 +55,7 @@ function generateMarkdown(data) {
  
  ## License 
  This project has a project license of ${data.license}.  
- To find out more information about this license, visit the link below.
+ To find out more information about this license, visit the following link.
  https://choosealicense.com/licenses/${data.license.toLowerCase()}/
 
 `;
