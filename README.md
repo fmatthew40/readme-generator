@@ -14,5 +14,3 @@
 
  ## Usage 
  This application is used to create a quality readme.
-
-
