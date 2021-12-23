@@ -2,7 +2,7 @@
   
   ## Professional Readme Generator
 
-  ## ![screenshot](https://img.shields.io/badge/License-Apache-blue.svg)
+  ## ![screenshot](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
   ## Table of Contents
@@ -15,26 +15,26 @@
   7.  [Questions](#questions)
 
  ## Description
- This application prompts the user with questions.  The answers to those questions are then used to create a readme file.
+ This project asks the users questions and then uses those answers to produce a readme.
 
  ## Installation 
- Please install the inquirer package to use this application.
+ Please install the inquirer package if you wish to use this application.
 
  ## Usage 
- The intended use is to create a quality readme.
+ The intended usage is to produce a readme file.
 
  ## Contributing 
  Contributions are not accepted at this time.
 
  ## Tests 
- Tests were used to show each feature of this application.
+ Tests to check feauture have been performed.
 
  ## Questions
  If you have any questions, feel free to email me at fmatthew40@gmail.com. 
  You can also visit my github page at www.github.com/fmatthew40.
  
  ## License 
- This project has a project license of Apache.  
+ This project has a project license of MIT.  
  To find out more information about this license, visit the following link.
- https://choosealicense.com/licenses/apache/
+ https://choosealicense.com/licenses/mit/
 
