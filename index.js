@@ -24,6 +24,11 @@ const questions = [
 },
 {
     type: 'input',
+    message:  'Please add a link to your demonstation video.',
+    name: 'demonstration'
+},
+{
+    type: 'input',
     message:  'Please describe your project in detail.',
     name: 'description'
 },

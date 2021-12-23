@@ -27,12 +27,17 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   1.  [License](#license)
-  2.  [Description](#description)
-  3.  [Installation](#installation)
-  4.  [Usage](#usage)
-  5.  [Contributing](#contributing)
-  6.  [Tests](#tests)
-  7.  [Questions](#questions)
+  2.  [Demonstration](#demonstration)
+  3.  [Description](#description)
+  4.  [Installation](#installation)
+  5.  [Usage](#usage)
+  6.  [Contributing](#contributing)
+  7.  [Tests](#tests)
+  8.  [Questions](#questions)
+
+ ## Demonstration
+ Please visit the following link to view a demonstration video of this application. 
+ ${data.demonstration}
 
  ## Description
  ${data.description}

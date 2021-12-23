@@ -16,7 +16,7 @@
   8.  [Questions](#questions)
 
  ## Demonstration
- Please visit the following link to view a demonstration video of this application.
+ Please visit the following link to view a demonstration video of this application. 
  https://youtu.be/DtJpwkSYFWg
 
  ## Description
@@ -32,7 +32,7 @@
  Contributions are not being accepted at this time.
 
  ## Tests 
- Tests have been performed on each feature of this project.  Most tests take place in the terminal to ensure the application is functioning.  After completion in the terminal, go to the readme file to ensure that it wrote the file correctly.  
+ Tests have been performed on each feature of this project. Most tests take place in the terminal to ensure the application is functioning. After completion in the terminal, go to the readme file to ensure that it wrote the file correctly.
 
  ## Questions
  If you have any questions, feel free to email me at fmatthew40@gmail.com. 
